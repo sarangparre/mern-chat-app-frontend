@@ -1,0 +1,16 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.chatdiv {
+    display: flex;
+    justify-content: end;
+}
+
+.chatdiv1{
+     display: flex;
+    justify-content: start;
+}
